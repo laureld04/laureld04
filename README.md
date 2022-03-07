@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating inserts utilized to speed up acquisition time. (Here is a sneakpeek of the model)
+- 🔭 I’m currently working on creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of the model)
 ![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/innertubesegment.gif "Inner Tube Segment")
