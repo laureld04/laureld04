@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 - Creating 3D renders of Magnetic Resonance Images collected on the Bruker 7T.
 -  (Below is a murine skull which was acquired using a zero echo time technique) 
+
 ![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/murine.gif "Murine Skull Render")
 
 - 🌱 I’m currently learning data visualization, such as shown below:
