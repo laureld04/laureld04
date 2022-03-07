@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on creating inserts utilized to speed up acquisition time. (Here is a sneakpeek of the model)
-- 
+![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/innertubesegment.gif "Inner Tube Segment")
