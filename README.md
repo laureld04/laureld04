@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of the model)
+- 🔭 I’m currently working on:
+- Creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of the model)
 
 ![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/innertubesegment.gif "Inner Tube Segment")
+
+- Creating 3D renders of Magnetic Resonance Images collected on the Bruker 7T.
+-  (Below is a murine skull which was acquired using a zero echo time technique) 
+
 
 - 🌱 I’m currently learning data visualization, such as shown below:
 ![alt text](https://github.com/laureld04/laureld04/blob/main/histos.PNG "Violin Plot")
