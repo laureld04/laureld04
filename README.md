@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/innertubesegment.gif "Inner Tube Segment")
 
 - 🌱 I’m currently learning data visualization, such as shown below:
-
+![alt text](https://github.com/laureld04/laureld04/blob/main/histos.PNG "Violin Plot")
 😄 Pronouns: she/her/hers
