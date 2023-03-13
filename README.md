@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data visualization, such as shown below:
 ![alt text](https://github.com/laureld04/laureld04/blob/main/histos.PNG "Violin Plot")
 😄 Pronouns: she/her/hers
+![alt text](https://github.com/laureld04/laureld04/blob/main/APIS_test.PNG "DTI Direction Checks")
