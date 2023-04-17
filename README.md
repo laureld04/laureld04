@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/laureld04/laureld04/blob/main/histos.PNG "Violin Plot")
 😄 Pronouns: she/her/hers
 ![alt text](https://github.com/laureld04/laureld04/blob/main/APIS_test.PNG "DTI Direction Checks")
+
+![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
