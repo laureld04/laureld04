@@ -19,9 +19,9 @@
    - Creating 3D renders of Magnetic Resonance Images collected on the Bruker 7T.
    - (Below is a murine skull which was acquired using a zero echo time technique)
      
-    ![alt text](https://github.com/laureld04/laureld04/blob/main/murine.gif "Murine Skull Render")
+   ![alt text](https://github.com/laureld04/laureld04/blob/main/murine.gif "Murine Skull Render")
     
-    ![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
+   ![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
 
 <!--
 **laureld04/laureld04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
