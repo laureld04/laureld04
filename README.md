@@ -2,7 +2,7 @@
 
  I am a
  
-🎓 Ph.D. Candidate in Biomedical Engineering
+🎓 5th  year Ph.D. Candidate in Biomedical Engineering with a minor in Neuroscience
 
 🧠 Brain Imaging Researcher 
 
