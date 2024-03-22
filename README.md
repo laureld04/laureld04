@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My dog, Chloe is a skilled soccer player.
--->
+
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on:
 - Creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of one iteration of the model)
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
 ![alt text](https://github.com/laureld04/laureld04/blob/main/test.png "Test image")
+-->
 
