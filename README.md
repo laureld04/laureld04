@@ -20,24 +20,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My dog, Chloe is a skilled soccer player.
-
 - 🌱 I’m currently learning ...
 - 🔭 I’m currently working on:
-- Creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of one iteration of the model)
-
-![alt text](https://github.com/laureld04/Multi_Brain_Pipeline/blob/master/innertubesegment.gif "Inner Tube Segment")
-
-- Creating 3D renders of Magnetic Resonance Images collected on the Bruker 7T.
--  (Below is a murine skull which was acquired using a zero echo time technique) 
-
-![alt text](https://github.com/laureld04/laureld04/blob/main/murine.gif "Murine Skull Render")
-
-- 🌱 I’m currently learning data visualization, such as shown below:
-![alt text](https://github.com/laureld04/laureld04/blob/main/histos.PNG "Violin Plot")
-😄 Pronouns: she/her/hers
-![alt text](https://github.com/laureld04/laureld04/blob/main/APIS_test.PNG "DTI Direction Checks")
-
-![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
-![alt text](https://github.com/laureld04/laureld04/blob/main/test.png "Test image")
+ -Creating inserts utilized to speed up acquisition time. (Here is a sneak-peek of one iteration of the model)
+  - Creating 3D renders of Magnetic Resonance Images collected on the Bruker 7T.
+  -  (Below is a murine skull which was acquired using a zero echo time technique) 
+    ![alt text](https://github.com/laureld04/laureld04/blob/main/murine.gif "Murine Skull Render")
+    ![alt text](https://github.com/laureld04/laureld04/blob/main/tUStx_figures.pdf "Test")
 -->
 
