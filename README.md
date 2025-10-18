@@ -2,7 +2,7 @@
 
  I am a
  
-🎓 6th  year Ph.D. Candidate in Biomedical Engineering with a minor in Neuroscience
+🎓 Ph.D .in Biomedical Engineering with a minor in Neuroscience from University of Arizona
 
 🧠 Brain Imaging Researcher 
 
